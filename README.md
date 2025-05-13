@@ -18,7 +18,7 @@ Participants will experience three phases of work:
 
 In this phase:
 
-- SpoonOS team will provide proposal samples, but developers can choose to use these or create their own.
+- SpoonOS team will provide proposal [samples](./Proposal_Samples/), but developers can choose to use these or create their own.
 - If using a sample proposal, developers must submit a sample issue in the Scoop GitHub repository for tracking.
 - If creating an original proposal, it must include:
   - Problem description or pain points
@@ -107,6 +107,19 @@ For specific GAS incentives, please refer to the program documentation.
 
 _Note: The final interpretation and classification of contribution levels are at the discretion of the SpoonOS team._
 
+## Program Schedule
+
+The SpoonOS Developer Call program will run for one month, starting from May 26th, 2023.
+
+Participants can engage in any of the three phases (Proposal, Coding, Audit) at any time during the program period. The only fixed dates are:
+
+| Date          | Milestone                          |
+| ------------- | ---------------------------------- |
+| May 26, 2023  | Program Launch                     |
+| June 30, 2023 | Program End & Rewards Distribution |
+
+_Note: All deadlines are at 11:59 PM UTC on the specified date._
+
 ## Getting Started
 
 To participate in the SpoonOS Developer Call:
@@ -114,8 +127,9 @@ To participate in the SpoonOS Developer Call:
 1. Review the SpoonOS documentation
 2. Choose or create a proposal
 3. Submit your proposal as an issue in the Scoop GitHub repository
-4. Wait for approval before beginning development
-5. Submit your completed project according to the audit phase requirements
+4. Wait for approval from the SpoonOS team
+5. Begin development at your own pace during the program period
+6. Submit your completed project according to the audit phase requirements
 
 ## Contact
 
