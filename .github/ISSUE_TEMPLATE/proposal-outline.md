@@ -13,7 +13,7 @@ assignees: ''
 - What are the paint points addressed and for whom
 - Severity of the problem
 
-## Business Opportunity'
+## Business Opportunity
 - Who are the target customers?
 - What is the overall market size?
 - What are potential business models?
@@ -22,6 +22,6 @@ assignees: ''
 ## Technical Plan
 - Define your solution Approach?
 - What is unique about your solution?
-- Frameworks/Technologies to be used 
+- Frameworks/Technologies of SpoonOS to be used 
 - Assumptions, constraints, and solution decision points (Reason behind choosing a technology)
 - How easily can your solution be implemented and how effective will it be
